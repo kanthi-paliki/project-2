@@ -3,5 +3,7 @@ This project demonstrates Simple Linear Regression using the Least Square Method
 
 #Features
 --> Calculates slope an dintercept using least squares formula
+
 --> Acccepts input values from user.
+
 -->Predicts the output using the regression line.
